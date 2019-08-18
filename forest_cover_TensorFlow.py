@@ -7,6 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/18ARiJPVlzuxZNyVSe0KOXCxGQlTnrr9W
 """
 
+# Author : Juan Zamorano Ruiz
+# Copyright: MIT License
+# e-mail: juzaru18@gmail.com
+
+
 import pandas as pd
 import tensorflow as tf
 import matplotlib as plt
